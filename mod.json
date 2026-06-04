@@ -1,13 +1,11 @@
 {
-  "geode": "4.0.0",
-  "id": "yourname.modmenu",
+  "geode": "5.7.1",
+  "gd": {
+    "android": "2.2081",
+    "win": "2.2081"
+  },
+  "id": "nemomenu.spackye",
   "name": "My Mod Menu",
   "version": "1.0.0",
-  "developer": "Your Name",
-
-  "resources": {
-    "sprites": [
-      "cat.png"
-    ]
-  }
+  "developer": "SpackYe"
 }
