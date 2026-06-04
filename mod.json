@@ -9,3 +9,8 @@
   "version": "1.0.0",
   "developer": "SpackYe"
 }
+
+{
+  "resources": [
+    "cat.png"
+  ] }
