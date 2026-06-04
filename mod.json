@@ -1,0 +1,13 @@
+{
+  "geode": "4.0.0",
+  "id": "yourname.modmenu",
+  "name": "My Mod Menu",
+  "version": "1.0.0",
+  "developer": "Your Name",
+
+  "resources": {
+    "sprites": [
+      "cat.png"
+    ]
+  }
+}
